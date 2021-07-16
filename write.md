@@ -31,7 +31,7 @@ I have come to appreciate writing as a powerful and advanced technology, whether
 > Until it's on paper,  
 > it's vapor.
 
-**The Book Before the Book**
+## The Book Before the Book
 
 One of the first people to formally develop a plan for treating alcoholics was Dr. Richard Peabody85. Peabody, you should know, was not a doctor, though he was an alcoholic, which was probably the more important requirement of the two.
 
